@@ -8,7 +8,7 @@
    <title lang="EN">Auto Play</title>
    <desc lang="EN">Start playback when powered on or reconnected</desc>
    <url>https://github.com/CDrummond/lms-autoplay/releases/download/0.0.1/lms-autoplay-0.0.1.zip</url>
-   <sha>b09fc715ab674bfc1eb1195d15106c039d61c04d</sha>
+   <sha>30498cb127105569c34ea4fe4bc2f883cfdbed60</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MaterialSkin" version="1.8.5" minTarget="7.9.0" maxTarget="*">
@@ -22,28 +22,28 @@
    <title lang="EN">MIP Mixer</title>
    <desc lang="EN">MusicIP Mixer for DSTM</desc>
    <url>https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.1/lms-mipmixer-0.0.1.zip</url>
-   <sha>f8d309c0e1078d6a4f112298c67ae687ba86de20</sha>
+   <sha>0de8493639b9c1cc80e9d1ecfb3c39e8373e6acf</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MuslyMixer" version="0.0.1" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Musly Mixer</title>
    <desc lang="EN">Musly Mixer for DSTM - requires musly-server (from https://github.com/CDrummond/musly-server/releases) to be installed</desc>
    <url>https://github.com/CDrummond/lms-muslymixer/releases/download/0.0.1/lms-muslymixer-0.0.1.zip</url>
-   <sha>b5dd35289864f1503b9168769e4c1bcfbdadaa73</sha>
+   <sha>f2298f3b1273ff7326e89451d0c67ff978655a5e</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="QueueLimit" version="0.0.1" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Queue Limit</title>
    <desc lang="EN">Limit queue history size</desc>
    <url>https://github.com/CDrummond/lms-queuelimit/releases/download/0.0.1/lms-queuelimit-0.0.1.zip</url>
-   <sha>318220d4013d8b59295bf1fe83516a400e3ce1f2</sha>
+   <sha>2958e09bad767b7e13dabe4a7eeea6a7464c67f7</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="VolumeCheck" version="0.0.1" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Volume Check</title>
    <desc lang="EN">Work-around for Libratone ZIPP AirPlay initial volume</desc>
    <url>https://github.com/CDrummond/lms-volumecheck/releases/download/0.0.1/lms-volumecheck-0.0.1.zip</url>
-   <sha>7436c4b926999b939d56b5563ba4b6f852f4c852</sha>
+   <sha>3e9604cd28e248b91a8001a283133b68a1f8d0f3</sha>
    <creator>Craig Drummond</creator>
   </plugin>
  </plugins>
