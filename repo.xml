@@ -18,11 +18,11 @@
    <sha>f6b7178e1b37c408e11c20399e3b92595c8c8742</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="MIPMixer" version="0.0.1" minTarget="7.9.0" maxTarget="*">
+  <plugin name="MIPMixer" version="0.0.2" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">MIP Mixer</title>
    <desc lang="EN">MusicIP Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.1/lms-mipmixer-0.0.1.zip</url>
-   <sha>0de8493639b9c1cc80e9d1ecfb3c39e8373e6acf</sha>
+   <url>https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.2/lms-mipmixer-0.0.2.zip</url>
+   <sha>d649102aba8ac929dbe1f93b9edbe50706aa746f</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MuslyMixer" version="0.0.1" minTarget="7.9.0" maxTarget="*">
