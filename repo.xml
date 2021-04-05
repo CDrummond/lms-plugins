@@ -25,11 +25,11 @@
    <sha>3edbfc250c46666cf76a66f1869f64cec899f53d</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="MuslyMixer" version="0.0.1" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Musly Mixer</title>
-   <desc lang="EN">Musly Mixer for DSTM - requires musly-server (from https://github.com/CDrummond/musly-server/releases) to be installed</desc>
-   <url>https://github.com/CDrummond/lms-muslymixer/releases/download/0.0.1/lms-muslymixer-0.0.1.zip</url>
-   <sha>f2298f3b1273ff7326e89451d0c67ff978655a5e</sha>
+  <plugin name="MusicSimilarity" version="0.0.2" minTarget="7.9.0" maxTarget="*">
+   <title lang="EN">Music Similarity</title>
+   <desc lang="EN">Similarity Mixer for DSTM - using either Essentia or Musly</desc>
+   <url>https://github.com/CDrummond/lms-musicsimilarity/releases/download/0.0.2/lms-musicsimilarity-0.0.2.zip</url>
+   <sha>38964ab2b496d858d2574aefd4b081b70545d32d</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="QueueLimit" version="0.0.1" minTarget="7.9.0" maxTarget="*">
