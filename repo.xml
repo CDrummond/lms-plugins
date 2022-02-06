@@ -18,11 +18,11 @@
    <sha>66463e0a7cc358c236f15c23e6d1cfc5b59430a6</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="MIPMixer" version="0.0.4" minTarget="7.9.0" maxTarget="*">
+  <plugin name="MIPMixer" version="0.0.5" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">MIP Mixer</title>
    <desc lang="EN">MusicIP Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.4/lms-mipmixer-0.0.4.zip</url>
-   <sha>967a1b983c623d22e6cec5c3c64037390bbbd04d</sha>
+   <url>https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.5/lms-mipmixer-0.0.5.zip</url>
+   <sha>b0e2877b1681a2f5788da49c7f1fb2f9468875dc</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MusicSimilarity" version="0.0.3" minTarget="7.9.0" maxTarget="*">
