@@ -25,11 +25,11 @@
    <sha>b0e2877b1681a2f5788da49c7f1fb2f9468875dc</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="MusicSimilarity" version="0.0.3" minTarget="7.9.0" maxTarget="*">
+  <plugin name="MusicSimilarity" version="0.0.4" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Music Similarity</title>
    <desc lang="EN">Similarity Mixer for DSTM - using either Essentia or Musly</desc>
-   <url>https://github.com/CDrummond/lms-musicsimilarity/releases/download/0.0.3/lms-musicsimilarity-0.0.3.zip</url>
-   <sha>60afb013961b3284138d2385a1f3a621bf25d256</sha>
+   <url>https://github.com/CDrummond/lms-musicsimilarity/releases/download/0.0.4/lms-musicsimilarity-0.0.4.zip</url>
+   <sha>3d9b87e24f05a300b20c2400dce20f8a503ba677</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="QueueLimit" version="0.0.1" minTarget="7.9.0" maxTarget="*">
