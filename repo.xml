@@ -11,6 +11,13 @@
    <sha>30498cb127105569c34ea4fe4bc2f883cfdbed60</sha>
    <creator>Craig Drummond</creator>
   </plugin>
+  <plugin name="BlissMixer" version="0.0.1" minTarget="7.9.0" maxTarget="*">
+   <title lang="EN">Auto Play</title>
+   <desc lang="EN">Bliss Mixer for DSTM</desc>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.0.1/lms-blissmixer-0.0.1.zip</url>
+   <sha>1adaa1dbad30081c786ffbafe0c499583ed67617</sha>
+   <creator>Craig Drummond</creator>
+  </plugin>
   <plugin name="MaterialSkin" version="2.9.2" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Material Skin</title>
    <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
@@ -27,7 +34,7 @@
   </plugin>
   <plugin name="MusicSimilarity" version="0.0.4" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Music Similarity</title>
-   <desc lang="EN">Similarity Mixer for DSTM - using either Essentia or Musly</desc>
+   <desc lang="EN">Similarity Mixer for DSTM - Bliss, Essentia, and/or Musly</desc>
    <url>https://github.com/CDrummond/lms-musicsimilarity/releases/download/0.0.4/lms-musicsimilarity-0.0.4.zip</url>
    <sha>3d9b87e24f05a300b20c2400dce20f8a503ba677</sha>
    <creator>Craig Drummond</creator>
