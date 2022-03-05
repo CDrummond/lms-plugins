@@ -12,7 +12,7 @@
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="BlissMixer" version="0.0.1" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Auto Play</title>
+   <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
    <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.0.1/lms-blissmixer-0.0.1.zip</url>
    <sha>1adaa1dbad30081c786ffbafe0c499583ed67617</sha>
