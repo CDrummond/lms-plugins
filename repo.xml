@@ -11,11 +11,11 @@
    <sha>30498cb127105569c34ea4fe4bc2f883cfdbed60</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="BlissMixer" version="0.0.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.1.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.0.2/lms-blissmixer-0.0.2.zip</url>
-   <sha>17597ac804f26b710ed415f2a6d7e03897f0cd8b</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.1.0/lms-blissmixer-0.1.0.zip</url>
+   <sha>4bbfd0d441f6371aa9aa8b4b66034d0d27b5abc2</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MaterialSkin" version="2.9.2" minTarget="7.9.0" maxTarget="*">
