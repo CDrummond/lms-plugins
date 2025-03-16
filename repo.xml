@@ -18,11 +18,11 @@
    <sha>da969442720ffa2289c9cbb42a7d21cecd5f213d</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="MaterialSkin" version="5.8.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="MaterialSkin" version="5.8.3" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Material Skin</title>
    <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
-   <url>https://github.com/CDrummond/lms-material/releases/download/5.8.2/lms-material-5.8.2.zip</url>
-   <sha>1b7afcf76b1b19d82c3c236106fd02e8a554717c</sha>
+   <url>https://github.com/CDrummond/lms-material/releases/download/5.8.3/lms-material-5.8.3.zip</url>
+   <sha>0cbcad21a9e514d43cb10a99b741a172af933fbf</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MIPMixer" version="0.0.5" minTarget="7.9.0" maxTarget="*">
