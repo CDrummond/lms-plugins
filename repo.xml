@@ -22,7 +22,7 @@
    <title lang="EN">Material Skin</title>
    <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
    <url>https://github.com/CDrummond/lms-material/releases/download/5.10.2/lms-material-5.10.2.zip</url>
-   <sha>3ac763061c0fb0a6dc8e694752060b9c1f17ef01</sha>
+   <sha>423ebe1d2ffcb48198f33b8b3b3ca4b073c3c868</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MIPMixer" version="0.0.5" minTarget="7.9.0" maxTarget="*">
