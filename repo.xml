@@ -11,11 +11,25 @@
    <sha>30498cb127105569c34ea4fe4bc2f883cfdbed60</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="BlissMixer" version="0.6.0" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer (Linux)" version="0.7.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.6.0/lms-blissmixer-0.6.0.zip</url>
-   <sha>a223d8c3d790a9a4cd95cc35fa5726cc39531cf6</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-linux-0.7.0.zip</url>
+   <sha>95cfa5ac5885d76f1fbce0e9a03e38e255bd4dda</sha>
+   <creator>Craig Drummond</creator>
+  </plugin>
+  <plugin name="BlissMixer (Mac)" version="0.7.0" minTarget="7.9.0" maxTarget="*">
+   <title lang="EN">Bliss Mixer</title>
+   <desc lang="EN">Bliss Mixer for DSTM</desc>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-mac-0.7.0.zip</url>
+   <sha>b8962ffc8322534764925b34a5b26e45b2d8c5b8</sha>
+   <creator>Craig Drummond</creator>
+  </plugin>
+  <plugin name="BlissMixer (Windows)" version="0.7.0" minTarget="7.9.0" maxTarget="*">
+   <title lang="EN">Bliss Mixer</title>
+   <desc lang="EN">Bliss Mixer for DSTM</desc>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-windows-0.7.0.zip</url>
+   <sha>ea17ee9878ecdbc5f28e08e7d5d2df48f1a9799a</sha>
    <creator>Craig Drummond</creator>
   </plugin>
   <plugin name="MaterialSkin" version="5.11.2" minTarget="7.9.0" maxTarget="*">
