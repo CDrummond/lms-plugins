@@ -49,25 +49,11 @@
    <sha>b0e2877b1681a2f5788da49c7f1fb2f9468875dc</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="MusicSimilarity" version="0.0.4" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Music Similarity</title>
-   <desc lang="EN">Similarity Mixer for DSTM - Bliss, Essentia, and/or Musly</desc>
-   <url>https://github.com/CDrummond/lms-musicsimilarity/releases/download/0.0.4/lms-musicsimilarity-0.0.4.zip</url>
-   <sha>3d9b87e24f05a300b20c2400dce20f8a503ba677</sha>
-   <creator>Craig Drummond</creator>
-  </plugin>
   <plugin name="QueueLimit" version="0.0.1" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Queue Limit</title>
    <desc lang="EN">Limit queue history size</desc>
    <url>https://github.com/CDrummond/lms-queuelimit/releases/download/0.0.1/lms-queuelimit-0.0.1.zip</url>
    <sha>2958e09bad767b7e13dabe4a7eeea6a7464c67f7</sha>
-   <creator>Craig Drummond</creator>
-  </plugin>
-  <plugin name="VolumeCheck" version="0.0.1" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Volume Check</title>
-   <desc lang="EN">Work-around for Libratone ZIPP AirPlay initial volume</desc>
-   <url>https://github.com/CDrummond/lms-volumecheck/releases/download/0.0.1/lms-volumecheck-0.0.1.zip</url>
-   <sha>3e9604cd28e248b91a8001a283133b68a1f8d0f3</sha>
    <creator>Craig Drummond</creator>
   </plugin>
  </plugins>
