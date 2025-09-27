@@ -11,27 +11,27 @@
    <sha>30498cb127105569c34ea4fe4bc2f883cfdbed60</sha>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="BlissMixer" version="0.7.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.8.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.2/lms-blissmixer-linux-0.7.2.zip</url>
-   <sha>c55aa73f60b1eac6543ca4d883ece554fdf193fa</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.0/lms-blissmixer-linux-0.8.0.zip</url>
+   <sha>c228bb11f3677cb448eb05e6fae193d26cd5f6c1</sha>
    <target>unix</target>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="BlissMixer" version="0.7.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.8.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.2/lms-blissmixer-mac-0.7.2.zip</url>
-   <sha>a3de8f66eeb16bb2d58a1a698da09213417c7308</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.0/lms-blissmixer-mac-0.8.0.zip</url>
+   <sha>5bfb33701051fa29ce2021a3dcaf17663b9204e2</sha>
    <target>mac</target>
    <creator>Craig Drummond</creator>
   </plugin>
-  <plugin name="BlissMixer" version="0.7.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.8.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.2/lms-blissmixer-windows-0.7.2.zip</url>
-   <sha>0f7d8e224fc2ffd971f9d620a3de901473164ffc</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.0/lms-blissmixer-windows-0.8.0.zip</url>
+   <sha>8cb247859fe983cd381e29483949662d3336d41d</sha>
    <target>windows</target>
    <creator>Craig Drummond</creator>
   </plugin>
