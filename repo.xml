@@ -10,6 +10,7 @@
    <url>https://github.com/CDrummond/lms-autoplay/releases/download/0.0.1/lms-autoplay-0.0.1.zip</url>
    <sha>30498cb127105569c34ea4fe4bc2f883cfdbed60</sha>
    <creator>Craig Drummond</creator>
+   <category>tools</category>
   </plugin>
   <plugin name="BlissMixer" version="0.8.2" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
@@ -18,6 +19,7 @@
    <sha>812223168618639a7d1d53d2cca517cc9abcfa2f</sha>
    <target>unix</target>
    <creator>Craig Drummond</creator>
+   <category>playlists</category>
   </plugin>
   <plugin name="BlissMixer" version="0.8.2" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
@@ -26,6 +28,7 @@
    <sha>c586dc0efe6eb6ba4da1cd0af0052265be135b58</sha>
    <target>mac</target>
    <creator>Craig Drummond</creator>
+   <category>playlists</category>
   </plugin>
   <plugin name="BlissMixer" version="0.8.2" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
@@ -34,6 +37,7 @@
    <sha>b452769864106c9f9827a22883aa2e9a297623a9</sha>
    <target>windows</target>
    <creator>Craig Drummond</creator>
+   <category>playlists</category>
   </plugin>
   <plugin name="MaterialSkin" version="6.0.3" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Material Skin</title>
@@ -41,6 +45,7 @@
    <url>https://github.com/CDrummond/lms-material/releases/download/6.0.3/lms-material-6.0.3.zip</url>
    <sha>911dd8d93e4ade5996a28c6cc8e09289e91db9df</sha>
    <creator>Craig Drummond</creator>
+   <category>skin</category>
   </plugin>
   <plugin name="MIPMixer" version="0.0.5" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">MIP Mixer</title>
@@ -48,6 +53,7 @@
    <url>https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.5/lms-mipmixer-0.0.5.zip</url>
    <sha>b0e2877b1681a2f5788da49c7f1fb2f9468875dc</sha>
    <creator>Craig Drummond</creator>
+   <category>playlists</category>
   </plugin>
   <plugin name="QueueLimit" version="0.0.1" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Queue Limit</title>
@@ -55,6 +61,7 @@
    <url>https://github.com/CDrummond/lms-queuelimit/releases/download/0.0.1/lms-queuelimit-0.0.1.zip</url>
    <sha>2958e09bad767b7e13dabe4a7eeea6a7464c67f7</sha>
    <creator>Craig Drummond</creator>
+   <category>playlists</category>
   </plugin>
  </plugins>
 </extensions>
