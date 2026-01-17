@@ -12,29 +12,29 @@
    <creator>Craig Drummond</creator>
    <category>tools</category>
   </plugin>
-  <plugin name="BlissMixer" version="0.8.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.9.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.2/lms-blissmixer-linux-0.8.2.zip</url>
-   <sha>812223168618639a7d1d53d2cca517cc9abcfa2f</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-linux-0.9.0.zip</url>
+   <sha>15861f7fe390cd8243b1b744156c36c1cf407977</sha>
    <target>unix</target>
    <creator>Craig Drummond</creator>
    <category>playlists</category>
   </plugin>
-  <plugin name="BlissMixer" version="0.8.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.9.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.2/lms-blissmixer-mac-0.8.2.zip</url>
-   <sha>c586dc0efe6eb6ba4da1cd0af0052265be135b58</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-mac-0.9.0.zip</url>
+   <sha>d99bf8d0fa8b40ced52b58e4c18364ce0b0d617a</sha>
    <target>mac</target>
    <creator>Craig Drummond</creator>
    <category>playlists</category>
   </plugin>
-  <plugin name="BlissMixer" version="0.8.2" minTarget="7.9.0" maxTarget="*">
+  <plugin name="BlissMixer" version="0.9.0" minTarget="7.9.0" maxTarget="*">
    <title lang="EN">Bliss Mixer</title>
    <desc lang="EN">Bliss Mixer for DSTM</desc>
-   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.2/lms-blissmixer-windows-0.8.2.zip</url>
-   <sha>b452769864106c9f9827a22883aa2e9a297623a9</sha>
+   <url>https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-windows-0.9.0.zip</url>
+   <sha>b25e57065a9665abc5d9682a4e5681442dd35569</sha>
    <target>windows</target>
    <creator>Craig Drummond</creator>
    <category>playlists</category>
